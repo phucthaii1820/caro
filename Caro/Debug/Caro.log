@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\HOANG LE KHANH\OneDrive - VNU-HCMUS\Desktop\OOP\Caro\Caro\Source.cpp(425,56): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\HOANG LE KHANH\OneDrive - VNU-HCMUS\Desktop\OOP\Caro\Caro\Source.cpp(457,56): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\HOANG LE KHANH\OneDrive - VNU-HCMUS\Desktop\OOP\Caro\Caro\Source.cpp(489,56): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\HOANG LE KHANH\OneDrive - VNU-HCMUS\Desktop\OOP\Caro\Caro\Source.cpp(521,56): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  Caro.vcxproj -> C:\Users\HOANG LE KHANH\OneDrive - VNU-HCMUS\Desktop\OOP\Caro\Debug\Caro.exe
